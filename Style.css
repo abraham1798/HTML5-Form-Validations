@@ -1,0 +1,9 @@
+body{
+    background: black;
+}
+.card-footer{
+    background: white;
+}
+.h6, h6 {
+    text-align: center;
+}
